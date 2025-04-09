@@ -1,5 +1,4 @@
 // src/app/layout.tsx
-import '../styles/globals.css'
 import { ReactNode } from 'react'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
